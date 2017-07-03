@@ -1,4 +1,4 @@
-La rotación de la KSK 2017
+# La rotación de la KSK 2017
 
 Durante el año 2017 se realizará un cambio importante en Internet: se hará una rotación de la llave raíz del DNS, cambiando la llave actual -en funcionamiento desde el año 2010- a una nueva.
 Este cambio es necesario por seguridad. Una llave criptográfica no debe estar en funcionamiento por mucho tiempo, debido a que aumenta sus posibilidades de quiebre, pérdida, y filtración.
@@ -11,11 +11,26 @@ A diferencia de la primera vez, ahora se estresará más el sistema DNS porque:
 
 Este sitio web es una iniciativa del Grupo de Trabajo del DNS de LACNOG, el Grupo de Operadores de Redes de Latinoamérica y el Caribe, y busca entregar información a los operadores de redes, de DNS, y de nombres en dominio en general, para que estén atentos a estos cambios, y tomen las debidas precauciones.
 
-Contenido:
-* ¿Quiénes deben estar atentos?
-* ¿qué es KSK y DNSSEC?
-* ¿qué podría pasar?
-* estar atentos a...
-* qué hacer si pasa algo
-* herramientas
-* más info (ICANN)
+## Cronograma:
+
+* 27 de octubre 2016: ~~Se crea nueva KSK~~
+
+* ....: ~KSK lista operativamente~
+
+* 11 de julio 2017: Incremento de tamaño de DNSKEY por la publicación de la nueva llave
+
+* 19 de septiembre 2017: Incremento de tamaño de DNSKEY en los root name servers
+
+* 11 de octubre 2017: La nueva KSK comienza a firmar, la vieja deja de firmar
+
+
+## Contenido:
+
+* [¿Quiénes deben estar atentos?](quienes_atentos.md)
+* [¿Qué es KSK y DNSSEC?](dnssec_basics.md)
+* [¿Qué podría pasar?](que_pasara.md)
+* [Estar atentos a...](atentos.md)
+* [¿Qué hacer si pasa algo?](accion.md)
+* [¿Cómo me puedo preparar?](herramientas.md)
+* [Más información](mas.md)
+
