@@ -4,5 +4,7 @@ DNSSEC es una actualización del protocolo tradicional DNS que añade verificaci
 
 Por lo tanto un resolvedor de nombres, para poder validar con DNSSEC los mensajes, debe conocer la llave raíz del DNS, desde donde se deriva el resto de llaves de los dominios. Esta llave se denomina "KSK de la raíz". Esta llave viene pre-configurada en los softwares DNS que realizan validación, además de ser publicada por diversos medios para permitir su instalación y chequeo manual.
 
+El protocolo DNSSEC considera el mecanismo para que el cambio, rotación o "rollover" de una llave ancla se realice automáticamente (mecanismo llamado "auto-trust-anchor" o "RFC5011"). La mayor parte de los servidores DNS actuales con mayor uso ya tiene soporte para esta actualización automática.
+
 Para más información de DNSSEC, recomendamos visitar [la sección DNSSEC del programa Deploy360 de la Internet Society](http://www.internetsociety.org/deploy360/dnssec/) (en inglés).
 
