@@ -6,7 +6,7 @@
 
  * Microsoft Server desde Windows Server 2012 ([más información](https://technet.microsoft.com/en-us/library/dn593672(v=ws.11).aspx))
 
- * Unbound desde versión 1.4.0
+ * Unbound desde versión 1.4.0 tiene soporte automático pero se debe activar ([más información](https://www.unbound.net/documentation/howto_anchor.html))
 
  * PowerDNS no tiene soporte para rollover automático, *se debe hacer manualmente* ([más información](https://doc.powerdns.com/md/recursor/dnssec/#trust-anchor-management))
 
