@@ -1,12 +1,17 @@
 # Rollover de KSK 2017: ¿Quiénes deben estar atentos?
 
- * Proveedores de servicio DNS recursivo (resolvers)
+Hay dos lugares clave que se verán afectados por esta rotación:
 
-    + ISPs, hostings, empresas, organizaciones
-    + Si validan, hay que revisar las llaves
+ * cualquiera que utilice DNSSEC para validación DNS, ya que la llave raíz es el "ancla de confianza" que origina toda la cadena de confianza para los nombres de dominio, y
+ * redes que limiten el tamaño de sus paquetes UDP
+
+De acuerdo a esto, los actores que deben tener cuidado son:
+
+ * Proveedores de servicio DNS recursivo (resolvers), en especial los que están validando con DNSSEC
+
+    + ISPs, hostings, empresas, organizaciones.
 
  * Proveedores de acceso a Internet (ISP)
 
-    + temas de bloqueo paquetes
-    + MTU
+    + bloqueo paquetes UDP (firewalls, IDS, etc)
 

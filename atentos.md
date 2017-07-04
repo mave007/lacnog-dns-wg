@@ -1,17 +1,10 @@
 # Estar atentos a...
 
-Hitos importantes:
+Los síntomas indicados en [¿Qué podría pasar?](que_pasara.md), si están relacionados a la rotación de la KSK de la raíz, debieran manifestarse en fechas muy cercanas a:
 
- * aparición de nueva KSK
+ * aparición de la nueva KSK en la raíz (11 de julio 2017) y rotación de la ZSK dentro del DNSKEY (19 de septiembre de 2017), fechas en las cuales aumentará el tamaño del DNSKEY y por ende podría haber problemas de demora en respuestas DNS
 
-   + problemas de tamaño (MTU)
+ * cambio de firmas (la rotación definitiva) el 11 de octubre de 2017 (o días posteriores), debido a que la antigua KSK dejará de firmar y pasará a firmar la nueva, si es que los resolvedores que validan no tienen ya configurada la nueva llave.
 
- * rollover de ZSK dentro del rollover de la KSK
-
-   + problemas de tamaño (MTU)
-
- * cambio de firmas
-
-   + problemas de validación de toda Internet
 
 
