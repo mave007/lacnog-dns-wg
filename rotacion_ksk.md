@@ -42,5 +42,5 @@ Este sitio web es una iniciativa del Grupo de Trabajo del DNS de LACNOG, el Grup
 
 ## Créditos
 
-Este mini-sitio surgió como proyecto del [Grupo de Trabajo del DNS de LACNOG](http://www.lacnog.org/wg-dns/) y su autor original es Hugo Salgado (NIC Chile) con contribuciones y co-edición de Mauricio Vergara y Andrés Pavez (ICANN). Se agradecen las revisiones, comentarios sugerencias de Gonzalo Muñoz (NIC Chile),...
+Este mini-sitio surgió como proyecto del [Grupo de Trabajo del DNS de LACNOG](http://www.lacnog.org/wg-dns/) y su autor original es Hugo Salgado (NIC Chile) con contribuciones y co-edición de Mauricio Vergara y Andrés Pavez (ICANN). Se agradecen las revisiones, comentarios y sugerencias de Gonzalo Muñoz (NIC Chile).
 

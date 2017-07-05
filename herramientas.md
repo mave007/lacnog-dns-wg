@@ -11,6 +11,12 @@
  * PowerDNS no tiene soporte para rollover automático, *se debe hacer manualmente* ([más información](https://doc.powerdns.com/md/recursor/dnssec/#trust-anchor-management))
 
 
+## Participar en testbed de rollover automático
+
+ICANN construyó un ambiente de pruebas que le permite simular en pocas semanas un rollover de KSK tal como será el real. Al participar podrá configurar sus resolvedores con una zona especial controlada por ICANN, y verificar el correcto funcionamiento de la rotación automática.
+
+ * [Automated Trust Anchor Update Testbed](https://automated-ksk-test.research.icann.org/) (ICANN)
+
 ## Set de herramientas útiles
 
 
