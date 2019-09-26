@@ -10,3 +10,4 @@
 |2018-09-24 | Tutorial de Firmado DNSSEC | LACNIC 30, LACNOC 2018 | secastro | [PDF](20180924-Tutorial_Firmado_DNSSEC-LACNIC30+LACNOC2018-secastro.pdf), [PPTx](original/20180924-Tutorial_Firmado_DNSSEC-LACNIC30+LACNOC2018-secastro.pptx) |
 |2018-09-28 | DNSSEC Root KSK Rollover | LACNOG 2018 | hsalgado, mvergara |[PDF](20180928-Lighiting_Talk_DNSSEC_Root_KSK_Rollover-mvergara_hsalgado.pdf), [YouTube](https://youtu.be/mHxrqpxBEMc) |
 |2019-05-09 | Resultados DNS Flagday 2019 | LACNIC 31 | hsalgado  | [PDF](20190509-dnsflagday-2019-resultados-LACNIC31-hsalgado.pdf) |
+|2019-10-10 | BoF DNS WG | LACNOG 2019 | mvergara, hsalgado | [Google](https://docs.google.com/presentation/d/1j8NL1fiy19QsMXoOmYvyxGx9ohs0RHoowQjJRIvUVko/edit?usp=sharing), [PDF](original/20191009-DNS_WG_BoF-LACNOG2019-mvergara.pdf) |
