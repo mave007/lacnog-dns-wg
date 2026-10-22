@@ -1,4 +1,4 @@
-[versión original](http://www.lacnog.org/wg-dns/)
+[versión original](https://nog.lat/dns/)
 
 # Acerca de LACNOG WG-DNS 
 
@@ -9,12 +9,12 @@ nombres de dominio en Internet, en sus dos vertientes principales:
 como DNS autoritativo y como resolutores.
 
 Para el primer caso se trabajará cerca de organizaciones como [ICANN](https://www.icann.org),
-[LACTLD](https://www.lacnog.org) y empresas de hosting; y para el segundo con grandes ISPs y
+[LACTLD](https://lactld.org) y empresas de hosting; y para el segundo con grandes ISPs y
 empresas que ofrecen conectividad a clientes.
 
 ## Plan de trabajo
 Convocar un llamado a temas específicos del DNS en el evento [LACNOG
-anual](https://www.lacnog.org/eventos/) en conjunto con el [CFP general de LACNOG](http://www.lacnog.org/guiapresentaciones/). Coordinar la
+anual](https://nog.lat/eventos/) en conjunto con el [CFP general de LACNOG](https://nog.lat/llamada-a-presentacion-de-trabajos-2026/). Coordinar la
 participación de expertos en DNS para el comité de programa y armar
 una agenda para un «track» del DNS dentro de LACNOG-LACNIC.
 
@@ -28,9 +28,9 @@ LACNOG, por favor suscríbase a la lista de correo [dns-esp](https://listas.nic.
 coordinarán las actividades del Grupo.
 
 ## Documentos
-[Mini sitio con información de la rotación de la KSK de la raíz del DNS](http://www.lacnog.org/wg-dns-ksk-rollover/)
+[Mini sitio con información de la rotación de la KSK de la raíz del DNS](web/wg-dns-ksk-rollover-2017/)
 
 ## Repositorio Público
 [GitHub LACNOG WG-DNS](https://github.com/mave007/lacnog-dns-wg)
  
-Coordinador del Grupo de Trabajo: [Hugo Salgado](https://twitter.com/huguei)
+Coordinador del Grupo de Trabajo: [Hugo Salgado](https://x.com/huguei)

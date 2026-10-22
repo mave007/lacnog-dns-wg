@@ -1,5 +1,5 @@
 # lacnog-dns-wg
-Repositorio de Documentos [Grupo de trabajo DNS LACNOG](http://www.lacnog.org/wg-dns/)
+Repositorio de Documentos [Grupo de trabajo DNS LACNOG](https://nog.lat/dns/)
 
 Las comunicaciones del WG son realizados a través de la [Lista de Correos
 DNS En Español](https://listas.nic.cl/mailman/listinfo/dns-esp).
@@ -7,7 +7,7 @@ DNS En Español](https://listas.nic.cl/mailman/listinfo/dns-esp).
 > La lista de correo "dns-esp" ("dns en español") es un lugar de discusión técnica, 
 > ayuda con problemas, solución de dudas, y sugerencias de arquitectura del DNS 
 > (Sistema de Nombres de Dominio) en idioma español. Su uso además está ligado 
-> a las discusiones generadas también en el [Working Group de DNS de LACNOG](http://www.lacnog.org/wg-dns/).
+> a las discusiones generadas también en el [Working Group de DNS de LACNOG](https://nog.lat/dns/).
 >
 > Su orientación es técnica, dirigida a operadores de servidores de nombre y 
 > usuarios finales del DNS.
@@ -42,13 +42,13 @@ DNS En Español](https://listas.nic.cl/mailman/listinfo/dns-esp).
 
 <!--
 ## Disclaimer
-El grupo de trabajo se rige bajo los [estatutos de LACNOG](http://www.lacnog.org/wp-content/uploads/2013/09/ESTATUTO-LACNOG-1.2.docx)
+El grupo de trabajo se rige bajo los [estatutos de LACNOG](https://nog.lat/estatutos/)
 El trabajo hecho en este working group es hecho por voluntarios, sin ningún tipo de obligación con sus afiliaciones u organizaciones que representa. 
 La participación de los miembros en este grupo asume que el trabajo será público y pueda ser reutilizado sin ningún tipo de garantía.
 
 
 ## Licencia
-[![Licencia de Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![Licencia de Creative Commons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Esta obra está bajo una [Licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/deed.es).
+Esta obra está bajo una [Licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
 -->
